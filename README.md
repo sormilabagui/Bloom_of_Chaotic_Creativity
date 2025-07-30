@@ -4,7 +4,7 @@ A soft, personal archive of my design experiments and cozy digital creations.
 
 ## 🌼 What’s inside:
 
-- ☕ 4-slide pastel drink presentation (Canva)
+- ☕ 4-slide drink presentation (Canva)
 - 📋 Aesthetic to-do list layout
 - 🐣 4 animated GIFs of cozy creatures for my JavaScript-based virtual pet project
 - 🔐 Minimal login page design
